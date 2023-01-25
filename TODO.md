@@ -1,0 +1,3 @@
+ - [ ] add arguments for output video size
+ - [ ] add and check help / version / info arguments
+ - [ ] add argument to bash script to have the number of loop (repeat video) and bypass that argument in python
